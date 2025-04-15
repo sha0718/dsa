@@ -1,5 +1,5 @@
 nums = [1,2,3,4,5]
-target = 8
+target = 5
 
 nums_set = set(nums)
 print(target in nums_set)  # Output: True

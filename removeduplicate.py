@@ -14,3 +14,4 @@ def remove_duplicates(arr):
 arr = [1, 1, 2, 2, 3]
 new_len = remove_duplicates(arr)
 print(arr[:new_len])  # Output: [1, 2, 3]
+
